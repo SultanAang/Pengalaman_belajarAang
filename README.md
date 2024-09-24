@@ -1,5 +1,7 @@
-# Pengalaman_belajarAang
+## Pengalaman_belajarAang
 
-# 24 September 2024
 
-*Belajar cara menggunakan Git melalui Github
+**24 September 2024**<br>
+<ul>
+  <li>Belajar cara menggunakan Git melalui Github
+<ul>
